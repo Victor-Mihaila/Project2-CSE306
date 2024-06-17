@@ -5,3 +5,4 @@ The code should be built with `g++ -O2 main.cpp lbfgs/lbfgs.c  -std=c++17 -o mai
 
 The images were added manually and were converted to the png format before upload, so that I could include them in my report. 
 
+All diagrams were produced for 100 points.
